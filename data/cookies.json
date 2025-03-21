@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Chocolate Chip",
+        "price": 3.5,
+        "description": "Classic cookie with chocolate chips and a hint of vanilla.",
+        "image": "chocolate-chip.png"
+    },
+    {
+        "id": 2,
+        "name": "Oatmeal Raisin",
+        "price": 3.0,
+        "description": "Soft oatmeal cookie with raisins and a touch of cinnamon.",
+        "image": "oatmeal-raisin.png"
+    },
+    {
+        "id": 3,
+        "name": "Peanut Butter",
+        "price": 3.8,
+        "description": "Creamy peanut butter cookie with a rich, nutty flavor.",
+        "image": "peanut-butter.png"
+        },
+    {
+        "id": 4,
+        "name": "Hazelnut Cookie",
+        "price": 3.2,
+        "description": "Crunchy and flavorful cookie with roasted hazelnuts and a hint of caramel.",
+        "image": "hazelnut-cookie.png"
+    },
+    {
+        "id": 5,
+        "name": "Chocolate Cookie",
+        "price": 3.3,
+        "description": "Rich and decadent cookie made with premium cocoa and dark chocolate chunks.",
+        "image": "chocolate-cookie.png"
+    },
+    {
+        "id": 6,
+        "name": "Macadamia White Chocolate",
+        "price": 4.0,
+        "description": "Delicious cookie with macadamia nuts and white chocolate chips.",
+        "image": "macadamia-white-chocolate.png"
+    }
+]
